@@ -2,7 +2,7 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
-We have added Pinia for state management, and vue-router for routing.
+
 
 ## Recommended IDE Setup
 
@@ -31,5 +31,10 @@ npm run build
 ```
 # vue-tailwind-project
 
+
+## DONE
+We have added Pinia for state management, and vue-router for routing.
+Note to self-might not need tailwind after all.
 ## TODO 
 - Cleanup the project and add a navbar.
+- Never add any class to custom-wrapper
