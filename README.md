@@ -30,3 +30,6 @@ npm run dev
 npm run build
 ```
 # vue-tailwind-project
+
+## TODO 
+- Cleanup the project and add a navbar.
