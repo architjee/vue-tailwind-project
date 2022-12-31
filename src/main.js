@@ -8,7 +8,6 @@ import './assets/main.css'
 import 'bulma/css/bulma.min.css'
 import './style.css'
 
-
 const app = createApp(App)
 
 app.use(createPinia())
